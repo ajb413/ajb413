@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Adam. I'm currently leading Developer Relations at [Compound Labs](https://compound.finance/).
+
+<a href="https://www.adambavosa.com/"><img src="https://img.shields.io/badge/AdamBavosa.com-blue" alt="Website"></a>
+<a href="https://github.com/ajb413"><img src="https://img.shields.io/github/followers/ajb413.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://twitter.com/adambavosa"><img src="https://img.shields.io/twitter/follow/adambavosa?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/adam-bavosa/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://medium.com/@adam.bavosa"><img src="https://img.shields.io/badge/Medium--ooo?logo=medium&style=social" alt="Medium"></a>
+
 <!--
 **ajb413/ajb413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
