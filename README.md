@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adam. I'm currently leading Developer Relations at [Compound Labs](https://compoundlabs.xyz/).
+I'm Adam.
 
 <a href="https://www.adambavosa.com/"><img src="https://img.shields.io/badge/AdamBavosa.com-blue" alt="Website"></a>
 <a href="https://github.com/ajb413"><img src="https://img.shields.io/github/followers/ajb413.svg?label=GitHub&style=social" alt="GitHub"></a>
