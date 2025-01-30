@@ -2,7 +2,7 @@
 
 I'm Adam.
 
-I lead Developer Relations at <a href="https://halliday.xyz/" target="_blank">[Halliday]</a>.
+I lead Developer Relations at <a target="_blank" href="https://halliday.xyz/">Halliday</a>.
 
 <a href="https://www.adambavosa.com/"><img src="https://img.shields.io/badge/AdamBavosa.com-blue" alt="Website"></a>
 <a href="https://github.com/ajb413"><img src="https://img.shields.io/github/followers/ajb413.svg?label=GitHub&style=social" alt="GitHub"></a>
